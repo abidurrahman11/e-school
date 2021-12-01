@@ -1,0 +1,112 @@
+.logo-img{
+    height: 50px;
+}
+.keeper1{
+    background-color: #c4f5d3;
+}
+.container{
+    padding-bottom: 60px;
+}
+.nav-background{
+    background-color: #c4f5d3;
+}
+.green-button{
+    border-radius: 18px;
+    background: rgb(0, 180, 69);
+    color: white;
+    padding: 8px 10px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    font-weight: 700;
+}
+.green-text{
+    color: rgb(0, 180, 69);
+}
+.red-text{
+    color: rgb(219, 64, 64);
+    font-size: large;
+}
+.gray-text{
+    color: gray;
+}
+.col-6 img{
+    padding: 20px;
+}
+.overview{
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+.sample-card{
+    margin: 14px;
+    background-color: #b3f1c7;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 210px;
+    max-height: 210px;
+    min-width: 200px;
+}
+.sample-card:hover{
+    background-color: white;
+    box-shadow: 3px 3px 8px gray;
+}
+.sample-images{
+    height: 100px;
+    padding: 10px;
+}
+.card-img-top{
+    padding: 10px;
+}
+.h2-name{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 4px 4px 12px gray;
+}
+.sml-icon-img{
+    height: 20px;
+    padding-right: 8px;
+}
+.crd-btm-container{
+    padding: 0 4px;
+}
+.card-bottom{
+    margin-top: 25px;
+}
+.testimonial{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.testimonial img{
+    padding: 20px;
+    max-width: 200px;
+}
+.testimonial p{
+    padding: 20px;
+    width: 80%;
+}
+.keeper2{
+    background-color: rgb(6, 6, 20);
+    color: white;
+    padding: 25px 0;
+}
+.footer-links{
+    padding-left: 30px;
+}
+.footer-p{
+    padding: 25px;
+}
+footer{
+    text-align: center;
+}
